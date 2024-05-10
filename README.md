@@ -1,7 +1,7 @@
 ![Kuntal's LinkedIn Banner (1)](https://github.com/Kuntal-Pandya/Kuntal-Pandya/assets/155050499/cb78e6e1-d495-479a-ad29-06ff6d6ac6a8)
 <br><br>
 
-## My Skillset 🧑‍💻
+## My Skillset 👩🏻‍💻
 <br>
 
 **PROGRAMMING** <br>
@@ -20,7 +20,7 @@ Oracle | MySQL
 GitHub
 <br><br><br>
 
-## Experience 👨‍💼
+## Experience 👩🏻‍💼
 <br>
 
 **Ex-Intern Front-end developer** @ [The Special Character](https://thespecialcharacter.com) (Jan 2024 - Mar 2024) <br>
